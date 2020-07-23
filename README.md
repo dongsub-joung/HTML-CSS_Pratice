@@ -7,7 +7,7 @@
 - [Layout](#layout)
 
 
-## Layout
+[TOC]
 
 + index.html = 학력
 + 100.html = 취미
