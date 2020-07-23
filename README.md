@@ -5,8 +5,6 @@
 ## Table of Contents
 
 - [Layout](#layout)
-- [Contributing](#contributing)
-
 
 
 ## Layout
@@ -18,8 +16,3 @@
 + /Web
   + Miyuki profile
 
-
-
-## Contributing
-
-[Miyuki profile Source](https://namu.wiki/w/시바 미유키)
