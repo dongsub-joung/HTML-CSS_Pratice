@@ -22,4 +22,4 @@
 
 ## Contributing
 
-+ [Miyuki profile Source](https://namu.wiki/w/시바 미유키)
+[Miyuki profile Source](https://namu.wiki/w/시바 미유키)
